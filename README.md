@@ -185,11 +185,11 @@ first, you should install node and npm.
 
 12. ![react Dynamic Form Renderer application default input page ](https://github.com/abhayraghuvanshi/user-registration-project/blob/main/Application_input_screen_1.JPG?raw=true)
 
-13. ![ User Registration input ](image_url_2)
+13. ![ User Registration input ](https://github.com/abhayraghuvanshi/user-registration-project/blob/main/User_Registration_input_2.JPG?raw=true)
 
-14. ![ User Registration input on submit ](image_url_3)
+14. ![ User Registration input on submit ](https://github.com/abhayraghuvanshi/user-registration-project/blob/main/User_Registration_input_submit_3.JPG?raw=true)
 
-15. ![ User Registration update ](image_url_4)
+15. ![ User Registration update ](https://github.com/abhayraghuvanshi/user-registration-project/blob/main/User_Registration_edit_input_submit_4.JPG?raw=true)
 
 ---
 if you clone this repository to local, just `npm install` and `npm run dev`.
