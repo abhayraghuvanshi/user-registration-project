@@ -183,7 +183,7 @@ first, you should install node and npm.
 
 11. open browser: [http://localhost:5174](http://localhost:5174)
 
-12. ![react Dynamic Form Renderer application default input page ](image_url_1)
+12. ![react Dynamic Form Renderer application default input page ](https://github.com/abhayraghuvanshi/user-registration-project/blob/main/Application_input_screen_1.JPG?raw=true)
 
 13. ![ User Registration input ](image_url_2)
 
